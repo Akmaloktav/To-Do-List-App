@@ -1,0 +1,9 @@
+.container {
+    width: 720px;
+    background-color: aliceblue;
+    margin: auto;
+}
+
+.mark {
+    text-decoration: line-through;
+}
